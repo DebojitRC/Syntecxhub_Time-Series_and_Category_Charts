@@ -1,2 +1,9 @@
-# Syntecxhub_Time-Series_-_Category_Charts
-Week 2 Task 1 Data Science
+# Syntecxhub Time-Series & Category Charts
+
+Data Science Week 2 Task 1
+
+Author: Debojit Roy Chowdhury
+
+------
+
+## Overview
