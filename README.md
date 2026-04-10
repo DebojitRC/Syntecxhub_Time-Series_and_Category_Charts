@@ -28,3 +28,22 @@ The dataset used is a retail sales dataset containing transactional information 
 This dataset is publicly available and widely used for sales analysis tasks.
 
 ## Technologies Used
+* Python
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+
+## Key Analysis
+
+### Time Series Analysis
+* Converted `Order Date` to datetime format
+* Aggregated sales data monthly
+* Plotted a line chart to visualize sales trends over time
+
+### Category Comparison
+* Grouped data by product category
+* Used a bar chart to compare total sales across categories
+
+### Distribution Analysis
+* Visualized category-wise contribution using a pie chart
+* Displayed percentage share of each category
