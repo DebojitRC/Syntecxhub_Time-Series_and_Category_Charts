@@ -65,3 +65,16 @@ This dataset is publicly available and widely used for sales analysis tasks.
 * Furniture and Office Supplies also contribute significantly
 * There is a clear variation in performance across categories
 
+## How to Run the Project
+* Clone the repository: https://github.com/DebojitRC/Syntecxhub_Time-Series_and_Category_Charts.git
+* Navigate to the project folder: ```bash cd Syntecxhub_Time-Series_and_Category_Charts```
+* Install required libraries: ```bash pip install pandas matplotlib```
+* Run the Jupyter Notebook: ```bash jupyter notebook```
+
+## Future Scope
+* Perform region-wise or segment-wise analysis
+* Add interactive visualizations using Plotly
+* Build dashboards for real-time insights
+
+## Conclusion
+This project demonstrates how time series and categorical visualizations can be used to analyze sales data effectively. It highlights the importance of data visualization in identifying patterns, trends, and insights.
