@@ -47,3 +47,20 @@ This dataset is publicly available and widely used for sales analysis tasks.
 ### Distribution Analysis
 * Visualized category-wise contribution using a pie chart
 * Displayed percentage share of each category
+
+## Visualizations
+
+### Monthly Sales Trend
+* Shows how sales change over time.
+
+### Sales by Category
+* Compares total sales across categories.
+
+### Category Sales Distribution
+* Displays the proportion of sales contributed by each category.
+
+## Key Insights
+* Sales show noticeable fluctuations over time, indicating seasonal trends
+* The Technology category contributes the highest share of total sales
+* Furniture and Office Supplies also contribute significantly
+* There is a clear variation in performance across categories
