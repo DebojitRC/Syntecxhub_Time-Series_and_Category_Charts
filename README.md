@@ -64,3 +64,4 @@ This dataset is publicly available and widely used for sales analysis tasks.
 * The Technology category contributes the highest share of total sales
 * Furniture and Office Supplies also contribute significantly
 * There is a clear variation in performance across categories
+
